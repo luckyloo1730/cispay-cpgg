@@ -5,12 +5,10 @@ This is the API used to integrate the Cispay payment gateway into ctrlpanel.gg, 
 ### FAQ
 ---
 
-- What payment methods does it accept?
+- **What payment methods does it accept?**
 - It accepts Ukrainian cards, Russian cards, Crypto
 
----
-
-- Where do I create my shop?
+- **Where do I create my shop?**
 - https://cispay.pro
 
 If you need any help, feel free to contact me on telegram - [@sleepyy_dev](https://t.me/sleepyy_dev)
